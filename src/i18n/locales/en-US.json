@@ -1,0 +1,16 @@
+{
+  "default-page": {
+    "title": "default title",
+    "description": "default description"
+  },
+  "home": {
+    "title": "Home",
+    "description": "Home page description",
+    "message": "Hello Home VueSSR."
+  },
+  "product": {
+    "title": "Product",
+    "description": "Product page description",
+    "message": "about page."
+  }
+}

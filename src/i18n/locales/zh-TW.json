@@ -1,0 +1,16 @@
+{
+  "default-page": {
+    "title": "預設標題",
+    "description": "預設說明"
+  },
+  "home": {
+    "title": "首頁",
+    "description": "\"首頁\" 頁面的介紹",
+    "message": "哈囉 首頁 VueSSR."
+  },
+  "product": {
+    "title": "產品頁",
+    "description": "\"產品\" 頁面的介紹",
+    "message": "產品頁面"
+  }
+}
