@@ -1,7 +1,10 @@
 module.exports = api => {
   const isTest = api.env('test');
   const presets = ['@babel/preset-typescript'];
-  const plugins = ['@babel/plugin-syntax-dynamic-import'];
+  const plugins = [
+    '@babel/plugin-proposal-class-properties',
+    '@babel/plugin-syntax-dynamic-import'
+  ];
 
   api.cache(true);
 

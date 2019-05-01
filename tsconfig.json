@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "strict": true,
+        "strict": false,
         "module": "esnext",
         "target": "es6",
         "experimentalDecorators": true,
